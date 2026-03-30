@@ -1,0 +1,12 @@
+First Name,Last Name,Age,Join Date,Department,Salary,Score
+  Alice  ,Smith,30,2023-01-15,Engineering,95000,95.5
+Bob,Jones,,Jan 2 2022,Marketing,82000,82
+Alice  ,Smith,30,2023-01-15,Engineering,95000,95.5
+Charlie,  Brown  ,25,03/10/2021,Sales,seventy thousand,77
+Diana,Prince,28,2022-06-30,Engineering,,91
+Eve,Adams,35,15 Aug 2020,HR,67000,
+Frank,Castle,,2021-11-01,Marketing,78000,84
+Grace,Hopper,40,1984-01-01,Engineering,120000,99
+,,,,,
+Hank,Pym,52,2019-03-22,Sales,55000,71
+Irene,Adler,31,2020-07-19,Marketing,83000,88
